@@ -1,4 +1,4 @@
-# Pep Expense App - Backend Server
+# Expense App - Backend Server
 
 Node.js and Express-based REST API server for the Pep Expense App. Handles user authentication, group management, expense tracking, and settlement calculations.
 
