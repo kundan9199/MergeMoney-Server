@@ -1,5 +1,0 @@
-=== Server Started ===
-
-[SERVER] Initializing...
-Server is running on port 5001
-MongoDB Connected🚀
